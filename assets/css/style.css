@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: bisque;
+}
+
+header {
+  text-align: center;
+}
+
+/* image section style start */
+.image img {
+  display: block;
+  width: 50%;
+  max-width: 350px;
+  margin: 10px auto 0px auto;
+}
+
+.image .caption {
+  text-align: center;
+  width: 65%;
+  margin: 10px auto;
+}
+/* image section style end */
