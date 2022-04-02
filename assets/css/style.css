@@ -6,6 +6,10 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
 .header-text {
   font-size: 30px;
   color: #e5e3d7;
@@ -28,8 +32,21 @@ h1 {
   border: 2px goldenrod solid;
   padding: 10px;
 }
-.links {
-  text-align: center;
+
+a {
+  color: goldenrod;
+}
+
+.link1 {
+  text-align: left;
+}
+
+.link2 {
+  text-align: left;
+}
+
+.link3 {
+  text-align: left;
 }
 
 body {
