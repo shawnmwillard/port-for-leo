@@ -1,9 +1,13 @@
+.image {
+  margin: auto;
+}
 h1 {
   color: #e5e3d7;
   text-align: center;
 }
 
-h2 {
+.header-text {
+  font-size: 30px;
   color: #e5e3d7;
   text-align: center;
 }
